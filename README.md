@@ -10,4 +10,4 @@ There are 3 notebooks for analyzing the poisoned data using DeepkNN,
 
 Apart from the standard MNIST dataset, poisoned data is available in files with '.npy' extension.
 First two notebooks use poisoned dataset during training of CNN. Third notebook deals with poisoned dataset separately as a test set.
-Experiments for ILA is work in progress.
+Experiments for DeepkNN_ILA  with code adapated from [ILA](https://github.com/CUAI/Intermediate-Level-Attack) is work in progress.
